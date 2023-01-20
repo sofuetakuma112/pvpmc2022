@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: Tutorial 1 - TMY Weather Data
+chapters:
+- file: Tutorial 2 - POA Irradiance
+- file: Tutorial 3 - Array Power
+- file: Tutorial A - Single Diode Model
+- file: Tutorial B - pvfree
+- file: Tutorial C - Modeling Module's Performance Advanced
+- file: Tutorial D - pySAM Modeling the Bifacial Tracker Field at NREL
